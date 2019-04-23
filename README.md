@@ -1,2 +1,4 @@
-# Start-Spring-Template
-the common template for starting spring-framework.
+# Spring-XML-Config-Improve
+split servlet xml to two.
+
+### 使用两个配置文件启动Spring Framework.
